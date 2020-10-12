@@ -1,3 +1,9 @@
+###Credits
+
+Credits to this person:- https://blog.exxactcorp.com/building-a-kubernetes-cluster-using-vagrant/
+
+This was created because i could not clone the oroginal repo and i wanted to use the repo in a automation yml file
+
 ## Kubernetes
 
 Kubernetes (commonly stylized as k8s[3]) is an open-source container-orchestration system for automating application deployment, scaling, and management. It aims to provide a "platform for automating deployment, scaling, and operations of application containers across clusters of hosts".[3] It works with a range of container tools, including Docker.[5] Many cloud services offer a Kubernetes-based platform or infrastructure as a service (PaaS or IaaS) on which Kubernetes can be deployed as a platform-providing service. 
